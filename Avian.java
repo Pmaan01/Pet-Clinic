@@ -18,5 +18,4 @@ class Avian extends Veterinarian {
         return "Avian";
 
     }
-
 }
